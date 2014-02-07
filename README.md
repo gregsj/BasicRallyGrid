@@ -1,0 +1,4 @@
+BasicRallyGrid
+==============
+
+Rally test application
